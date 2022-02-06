@@ -1,0 +1,5 @@
+flask version 22.0.3
+email_validator
+
+import secrets
+>>> secrets.token_hex(16)
